@@ -1,0 +1,90 @@
+.addButton {
+    margin-bottom: 10px;
+}
+
+#banner {
+    height: 100%;
+    background: #ffffff url('../img/music2.jpg') fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position:relative;
+}
+
+.views span {
+    margin-right: 10px;
+}
+
+/*Comments*/
+.comment {
+    margin-bottom:45px;
+}
+.author-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float:left;
+}
+
+.author-name {
+    float:left;
+    margin-left: 15px;
+}
+
+.author-name h4{
+    margin:5px 0px;
+
+}
+
+.author-time {
+    font-size: 11px;
+    font-style:italic;
+    color: #aaa;
+}
+
+.comment-content {
+    clear:both;
+    margin-left: 65px;
+    font-size:16px;
+    line-height: 1.3em;
+}
+
+.comments-title {
+    margin-bottom: 45px;
+}
+
+.comments-icon {
+    margin-right: 5px;
+}
+
+.views {
+    font-size:16px;
+    line-height: 1.3em;
+    color: #aaa;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.charts {
+    padding-top: 20px;
+}
+
+.mycard {
+    margin-right: 35px;
+    margin-bottom: 35px;
+    width: 20rem;
+}
+.mycard-body {
+    padding: 0 !important;
+}
+.list-group {
+    border: 0 !important;
+}
+.list-group-item {
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-left: 0 !important;
+}
+
+.card-footer {
+    border-top: 0 !important;
+}
